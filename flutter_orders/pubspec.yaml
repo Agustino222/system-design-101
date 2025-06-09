@@ -1,0 +1,13 @@
+name: flutter_orders
+description: Simple order management app converted from PyQt sample
+version: 0.1.0
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  excel: ^2.1.0
+
+flutter:
+  uses-material-design: true
